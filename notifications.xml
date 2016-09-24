@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Wallaby Expired License" displayType="NONE" />
+    <notification groupId="Wallaby License" displayType="NONE" />
+    <notification groupId="Wallaby Updates" />
+  </component>
+</application>

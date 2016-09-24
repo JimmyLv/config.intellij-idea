@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'meteor-simple-todos'" />
+    <option name="defaultScopeName" value="Project 'meteor-simple-todos'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'meteor-simple-todos'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>.jsp</mask>
+      <mask>.css</mask>
+      <mask>.js</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" value="ECMAScript 6" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.xml" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" value="XML" />
+  </component>
+</application>

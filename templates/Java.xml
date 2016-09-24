@@ -1,0 +1,22 @@
+<templateSet group="Java">
+  <template name="test" value="@Test&#10;public void should_return_$EXPECTION$_when_$CONDITION$() throws Exception {&#10;  //given&#10;  $GIVEN$;&#10;  &#10;  //when&#10;  $WHEN$;&#10;  &#10;  //then&#10;  assertThat($ASSERTION$, is(&quot;$EXPECTION$&quot;));&#10;}" description="given when then inside test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="EXPECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASSERTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="marstest" value="@Test&#10;public void given_marsRover_with_$X$_$Y$_$O$_when_execute_command_$COMMAND$_then_return_$EXPECTION$() throws Exception {&#10;  //given&#10;  MarsRover marsRover = new MarsRover($X$, $Y$, &quot;$O$&quot;);&#10;  &#10;  //when&#10;  marsRover.execute(&quot;$COMMAND$&quot;);&#10;  &#10;  //then&#10;  assertThat(marsRover.status(), is(&quot;$EXPECTION$&quot;));&#10;}" description="given when then inside test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="X" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Y" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="O" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMMAND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
