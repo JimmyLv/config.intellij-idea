@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Github.Create.Gist">
+    <keyboard-shortcut first-keystroke="shift ctrl meta g" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
