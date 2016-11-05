@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="antd-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_antd_antd.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_antd_antd.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="chai-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -154,6 +166,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux_redux.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="redux-saga-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_redux-saga.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_redux-saga.d.ts" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
