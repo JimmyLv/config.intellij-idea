@@ -6,6 +6,7 @@
       <mapping ext="template" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="qrsync-v2" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue" />
     </extensionMap>
   </component>
 </application>
