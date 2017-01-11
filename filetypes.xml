@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="template" type="HTML" />
+      <mapping ext="wxml" type="HTML" />
       <mapping pattern="qrsync-v2" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue" />
-      <mapping ext="wxml" type="XML" />
     </extensionMap>
   </component>
 </application>
