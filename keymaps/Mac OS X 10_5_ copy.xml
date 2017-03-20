@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateTimeTrackingToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="Github.Create.Gist">
     <keyboard-shortcut first-keystroke="shift ctrl meta g" />
   </action>
